@@ -6,7 +6,7 @@
     <title>FOAM</title>
 </head>
 <body>
-    <h2>Enuery</h2>
+    <h2>Enquery</h2>
     <form>
         <fieldset>
             <legend> COLLEGE FOAM </legend>
